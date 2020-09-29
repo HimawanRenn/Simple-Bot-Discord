@@ -1,6 +1,9 @@
 # Simple Bot Discord
  ini adalah bot discord simple belum ada command apa pun, bahasa bot ini adalah node.js
 
+## Membutuhkan
+<a href="https://nodejs.org/en/">Node.js</a>
+
 ## Cara Install
 
 1. **Clone Repository**
@@ -14,7 +17,6 @@ npm install
 ```
 "token"  : "TOKEN_BOT"
 "prefix" : "$"
-
 ```
 
 3. **Cara kerja bot**
