@@ -13,10 +13,9 @@ cd Simple-Bot-Discord
 npm install
 ```
 
-2. **Buka ```config.json``` lalu ubah token dan prefix berikut sesuai dengan bot yang kalian buat**
+2. **Ganti ```token``` sesuai dengan token bot yang kalian buat**
 ```
-"token"  : "TOKEN_BOT"
-"prefix" : "$"
+client.login('token');
 ```
 
 3. **Cara kerja bot**
