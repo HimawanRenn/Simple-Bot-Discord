@@ -51,6 +51,8 @@ Lalu klik **import**
 
 4. **Tinggal kalian <a href="https://github.com/HimawanRenn/Simple-Bot-Discord#cara-install
 ">setting bot kalian cara install</a>**
+<br>Jangan lupa install npm ketik di console si repl.it
+```npm install```
 
 5. **Copy Paste kode dibawah ini ke index.js diatas kode "const Discord = require('discord.js');"**
 ```
