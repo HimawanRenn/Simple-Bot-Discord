@@ -30,7 +30,7 @@ Jika lu pake cara ini, sip pas untuk lu yang gak mau ribet. Simak dibawah
 ## Membutuhkan
 Akun <a href="https://repl.it/upgrade/ishafwana/">Repl.it</a>
 <br>Akun <a href="https://uptimerobot.com/">Uptimerobot</a>
-<a href="https://discord.com/developers/applications">Bot discord</a>
+<br><a href="https://discord.com/developers/applications">Bot discord</a>
 
 ## Langkah Langkah
 
